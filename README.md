@@ -1,6 +1,4 @@
 
-¡Mis disculpas! Aquí está la traducción al inglés:
-
 ---
 
 ## Drink's Inventory Management 😄  
@@ -21,8 +19,6 @@ Our consultancy, **Data Solutions**, managed the project comprehensively, coveri
 ### Thank you for your attention! 🚨
 
 --- 
-
-If there's anything else you need, just let me know!
 
 ---
 
