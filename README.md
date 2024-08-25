@@ -1,3 +1,31 @@
+
+¡Mis disculpas! Aquí está la traducción al inglés:
+
+---
+
+## Drink's Inventory Management 😄  
+### July 2024
+
+**Inventory Project with Python, SQL Server, Power BI, and GCP** ⚡
+
+This group project was one of the most challenging I have participated in. The main objective was to optimize the inventory management of **Drink’s**, a beverage distribution company in the United Kingdom, with the aim of reducing costs and identifying areas for improvement.
+
+Our consultancy, **Data Solutions**, managed the project comprehensively, covering everything from data ingestion to the creation of an interactive dashboard in Power BI and the delivery of a final report with insights, conclusions, and recommendations for the company.
+
+- **Data Processing and Analysis**: The processes of exploratory data analysis (EDA) and extract, transform, load (ETL) from the original dataset were carried out using Python and various libraries. Then, an automation process was developed for incremental data loading from Python to SQL Server, where the company's database was created with its corresponding tables and relationships.
+
+- **Cloud Migration**: The database was then migrated from SQL Server to Google Cloud Platform (GCP) to ensure scalability, accessibility, and data security. In GCP, we created a dataset with the tables and developed a function that allowed for the scheduling of weekly data updates using Cloud Storage, Cloud Functions, Pub/Sub, and Cloud Scheduler.
+
+- **Dashboard and Reporting**: Finally, we connected the dataset in GCP to Power BI via BigQuery to develop KPIs, metrics, measures, and visualizations for the dashboard. An analysis of the dashboard was conducted, and a final report was developed for presentation to Drink’s executives. 🧐
+
+### Thank you for your attention! 🚨
+
+--- 
+
+If there's anything else you need, just let me know!
+
+---
+
 ## Gestión de Inventario de Drink's 😄
 #### July 2024
 
