@@ -16,6 +16,8 @@ Our consultancy, **Data Solutions**, managed the project comprehensively, coveri
 
 - **Dashboard and Reporting**: Finally, we connected the dataset in GCP to Power BI via BigQuery to develop KPIs, metrics, measures, and visualizations for the dashboard. An analysis of the dashboard was conducted, and a final report was developed for presentation to Drink’s executives. 🧐
 
+- **I was responsible for data engineering and the complete data ingestion process** for this project. Initially, I automated and performed incremental data loading using Python and SQL Server, creating the database, tables, and defining the relationships between them. Then, I transferred the project to BigQuery, a data warehouse in Google Cloud Platform, to ensure scalability and accessibility. In GCP, I created the dataset and tables in BigQuery and scheduled incremental data updates using Cloud Storage, Cloud Functions, Cloud Scheduler, and Pub/Sub. The final step was to connect the dataset in GCP to Power BI via BigQuery.
+
 ### Thank you for your attention! 🚨
 
 --- 
@@ -35,7 +37,8 @@ Our consultancy, **Data Solutions**, managed the project comprehensively, coveri
 
 #### Posteriormente, trasladamos la base de datos desde SQL Server a Google Cloud Platform (GCP) para garantizar la escalabilidad, accesibilidad y seguridad de los datos. En GCP, creamos un dataset con las tablas y desarrollamos una función que permitió la programación de la actualización semanal de los datos mediante Cloud Storage, Cloud Functions, Pub/Sub y Cloud Scheduler.
 
-#### Finalmente, conectamos el dataset en GCP a Power BI mediante BigQuery para elaborar los KPI’s, métricas, medidas y visualizaciones del dashboard. Se realizó un análisis del tablero y se desarrolló un informe final para presentar a los ejecutivos de Drink’s. 🧐
+#### Por último, conectamos el dataset en GCP a Power BI mediante BigQuery para elaborar los KPI’s, métricas, medidas y visualizaciones del dashboard. Se realizó un análisis del tablero y se desarrolló un informe final para presentar a los ejecutivos de Drink’s. 🧐
 
+#### En este proyecto estuve a cargo de la ingeniería de datos y del proceso completo de ingestión de datos. Inicialmente, realicé la automatización y carga incremental de datos utilizando Python y SQL Server, creando la base de datos, las tablas y definiendo las relaciones entre ellas. Luego, transferí el proyecto a BigQuery, almacén de datos en Google Cloud Platform para garantizar la escalabilidad y accesibilidad . En GCP, creé el dataset y las tablas en BigQuery, y programé las actualizaciones incrementales de datos utilizando Cloud Storage, Cloud Functions, Cloud Scheduler y Pub/Sub. El paso final fue conectar el dataset en GCP a Power BI mediante BigQuery.
 
 ### Muchas gracias por la atención! 🚨
